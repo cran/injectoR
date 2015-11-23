@@ -1,0 +1,14 @@
+7a7a7f0c2144eea260d10bb7246e177b *DESCRIPTION
+aba375da2ad330f68ac1833b70287de9 *NAMESPACE
+64ed70dd1d08bafc0f93c3e539db6069 *R/injector.R
+ef44f7131bae363bc855c99d2c3477e6 *README.md
+df1675d7d6909768c774a42c649d5ae7 *man/binder.Rd
+7c5ed88744e08c5ce9305433cb4ce159 *man/default.Rd
+de2fb0499c5c1eaee0f0daf87a5e40a0 *man/define.Rd
+f295bef68ef82dba404154810832eae0 *man/inject.Rd
+96dba6870a99efcc09884980ef505fcd *man/injectoR.Rd
+0248f33d5abefe6dd8cf25e316c1c53b *man/multibind.Rd
+d032eebef384635dabb58a12cfce1b05 *man/shim.Rd
+a743e732a83e1e304b97692bb543cbda *man/singleton.Rd
+5b880094be7c29fa69dc636b87257743 *tests/testthat.R
+2ed08d3605365d1981dc6807558a1076 *tests/testthat/test-injectoR.R
